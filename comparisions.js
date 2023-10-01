@@ -1,27 +1,29 @@
-// console.log(2<1)
+// console.log(2 < 1)
 // console.log(2 == 1)
+// console.log(2 != 1)
 
-// let result = 5 > 4
-// console.log( result )
-// console.log("first result", "Z" > "A")
-// console.log("Second Result", "Bee" > "Be")
-// console.log("Glow" > "Glee")
-// console.log("2" > 1) // 2 > 2
-// console.log(1 == "01") // 1 == 1
 
+// let answer = 5 > 4
+// console.log(answer)
+
+// console.log("Z" > "A")
+// console.log("Bee" > "Be")
+
+// console.log("2" == 2)
 // console.log(true == 1)
-// console.log(false == 0)
 
-// let a  = 0;
-// console.log(Boolean(a))
+// console.log("2" === 2)
+// console.log(true === 1)
 
-// let b  = "0";
-// console.log(Boolean(b))
 
-// console.log(a === b)
-// ==
-/// ===
+// console.log(null === undefined)
+// console.log(null == undefined)
 
-console.log(0 === false)
-console.log(null === undefined)
-console.log(null == undefined)
+
+// console.log(null === 0)
+// console.log(null == 0)
+console.log(null >= 0)
+
+console.log(undefined === 0)
+console.log(undefined == 0)
+console.log(undefined >= 0)
